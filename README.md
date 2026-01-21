@@ -114,6 +114,8 @@ figs_results/
  ├── grid_tx.png
  ├── time_papr_tx.png
  ├── BER.png
+ ├── PAPR.png
+ └── gui_*.png
 ```
 ## ▶️ Ejecución del proyecto
 
@@ -147,6 +149,3 @@ Este proyecto fue desarrollado con fines académicos dentro del área de **Comun
 
 - **Pablo Bermeo**  
 - **Sebastián Guazhima**
-
- ├── PAPR.png
- └── gui_*.png
